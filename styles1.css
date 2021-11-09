@@ -1,0 +1,48 @@
+body{
+    background-color: blanchedalmond;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    background-color: rgb(243, 242, 237);font-size: 0rem;text-align: center;
+}
+section{
+    background-color: rgb(250, 252, 248);font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    background-color: rgb(252, 253, 251);padding: 15px;margin: 30px;border: #ff6722 dashed 4px;
+}
+h1{
+    color: #0a0a0a;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;border: rgb(235, 121, 7);
+}
+h2{
+    color:rgb(3, 3, 3);text-decoration: underline;
+}
+h3{
+    color: rgb(3, 3, 3);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;border: rgb(238, 245, 245);margin: 0pt;padding: 0vh;
+}
+h4{
+    color: rgb(240, 76, 76);
+}
+p{
+    color: rgb(247, 125, 125);font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;border: lightgreen 3px solid;
+}
+footer{
+    background-color: rgb(245, 245, 237);padding-left: 50px;position: fixed;text-align: center;border: rgb(231, 236, 241);float: inline-start;color: rgb(245, 241, 236);
+}
+.desp{
+    color: rgb(233, 237, 241);border-style: dotted dashed solid double;margin: 25px 50px 75px 100px;
+}
+#text1{
+    margin-top: 0ex;margin-bottom: 0pt;margin-left: 0vmax;margin-right: 0rem;padding: 25px;
+}
+.upper{
+    text-transform: uppercase;
+}
+.shadow{
+    text-shadow: #339967 7px 10px 10px;
+}
+#transform{
+    transform: rotate(45deg);
+}
+.scale{
+    transform: scale(1,2);
+}
